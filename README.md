@@ -1,0 +1,34 @@
+# Punishing Gray Raven – Her Lore
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:27.16] Have you heard the lore
+[00:29.28] Telling about a time
+[00:34.21] When the land was ruled by storms
+[00:36.88] And covered with frosty white
+[00:40.94] To submit to the force
+[00:43.56] Having no spine
+[00:47.56] Or to rebel against the swarm
+[00:50.84] That holds the long night?
+[00:54.82] No turning back!
+[00:56.56] The vanquished rushed and roared
+[00:58.98] Fighting to win or die
+[01:01.66] Towards the puppets standing for the might
+[01:07.21] No more the stale
+[01:09.40] No more tyrannical ties
+[01:14.28] Bearing such oaths, I'm the blade that fronts the ice
+[01:20.82] Like a keen edge, she cut through the walls
+[01:28.16] Ushering in the light
+[01:37.34] Rising in the sky
+[01:44.84] A new aurora's gonna shine
+[01:52.25] Dashing ahead, confronting the iron heel
+[01:59.43] Never will I kneel
+[02:14.73] Have you heard the lore?
+[02:18.50] Have you heard her roar?
+[02:23.71] With the red aurora, I shall rise
+[02:30.58] On my way, I'm the blade that fronts the ice
+[02:37.48] Like a keen edge, cutting through the walls
+[02:44.75] Ushering in the light
+[02:51.34] Time to checkmate the king now
+```
