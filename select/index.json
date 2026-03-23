@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Her Lore",
+  "base_artist": "Punishing Gray Raven",
+  "createdAt": "2026-03-23T18:56:15.558357Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Her Lore",
+      "artist": "Punishing Gray Raven",
+      "has_synced": true,
+      "path": "select/01_Her_Lore_Punishing_Gray_Raven.lrc"
+    }
+  ]
+}
